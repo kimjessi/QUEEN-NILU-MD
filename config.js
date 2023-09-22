@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;liBFmJxT#gu4r5rsx3gcAjfaou0Z1qCGmzbR8HxPwG3Lr_y4we5Y' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = ''
@@ -23,9 +23,9 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '237690910725'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = '𝚩𝚵𝛁𝚵𝚪𝐋𝐘 𝐊𝚰𝚳'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,22 +41,21 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = '𝐊𝚰𝚳 𝚩𝚯𝚻'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = 'Bk' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚩𝚵𝛁𝚵𝚪𝐋𝐘 𝐊𝚰𝚳 ²⁰²³ '
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
-global.PREFIX = '.' // Bot Prefix
+global.PREFIX = ',' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = '© 𝙱𝚈 𝚩𝚵𝛁𝚵𝚪𝐋𝐘 𝐊𝚰𝚳 ²⁰²³ © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
-
+global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee903
 global.ALIVE_MESSAGE = 'default' // Set Alive Message
 
 global.MAX_SIZE = '400' // Bot Uloading Max size 
@@ -67,7 +66,7 @@ global.ANTI_BAD_ACTION = false
 
 global.ANTI_LINK = 'false' //Anti Link (on = True , Off = False )
 
-global.ANTI_BOTS = true
+global.ANTI_BOTS = 'false'
 
 global.ONLY_GROUP = 'false' // Only group mode
 
