@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;k2QTAT7b#gFXUC0B8d0td3S1Ei3nQ-3X4fPr44iOYROPuhxQonWM' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = ''
@@ -23,15 +23,15 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '237695810898'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = '©𝚩𝚵𝛁𝚵𝚪𝐋𝐘 ²⁰²³'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
-global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
@@ -41,19 +41,19 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = '𝐊𝚰𝚳 𝚩𝚯𝚻©²⁰²³'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '𝐊𝚰𝚳 𝚩𝚯𝚻' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = '©𝚩𝚵𝛁𝚵𝚪𝐋𝐘 ²⁰²³ '
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = '©𝚩𝚵𝛁𝚵𝚪𝐋𝐘 ²⁰²³' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
